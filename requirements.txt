@@ -1,0 +1,23 @@
+# Core dependencies (this file is for when installing without Docker)
+# For Docker, use requirements-ml.txt instead
+
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+Pillow==10.0.1
+numpy==1.24.3
+scipy==1.11.3
+scikit-image==0.21.0
+opencv-python==4.8.1.78
+transformers==4.34.0
+diffusers==0.21.4
+accelerate==0.24.0
+safetensors==0.4.0
+omegaconf==2.3.0
+einops==0.7.0
+tqdm==4.66.1
+requests==2.31.0
+websockets==11.0.3
+aiohttp==3.9.0
+runpod==0.10.0
+flask==2.3.3
